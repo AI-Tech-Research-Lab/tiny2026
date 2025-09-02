@@ -1,2 +1,2 @@
-# tiny2025
-Website for the Tiny Machine Learning Special Session, hosted at IJCNN 2025
+# tiny2026
+Website for the Tiny Machine Learning Special Session, hosted at WCCI 2026
